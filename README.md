@@ -13,6 +13,14 @@
 
 - ⚡ Fun fact **Call me as Anju**
 
+---
+
+![Anjana's github stats](https://github-readme-stats.vercel.app/api?username=AnjanaGunarathna&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjanaGunarathna&theme=tokyonight" alt="mystreak"/>
+![Anjana's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaGunarathna&theme=tokyonight&layout=compact)
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anjana gunarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjana gunarathna" height="30" width="40" /></a>
