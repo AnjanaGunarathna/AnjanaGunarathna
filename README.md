@@ -5,7 +5,7 @@
 
 ---
 
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 I’m currently learning **React Native**
 
 - 🤝 I’m an Undergraduate at **SLIIT**
 
